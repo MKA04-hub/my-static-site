@@ -39,10 +39,6 @@
 <footer>
 <p>&copy; 2024 Мой статический сайт. Все права защищены.</p>
 </footer>
-2.3 Создание страницы "О нас"
-Откройте about.html :
-<script src="js/script.js"></script>
-</body>
-</html>
+
 
 
